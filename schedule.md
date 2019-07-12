@@ -1,19 +1,18 @@
-# Data Jam Schedule for Social Interest Solutions
+# Data Jam Schedule for Alluma.org
 
-|WHEN   |Title     |WHAT      |WHERE|HOW MUCH |NOTES                                   |EQUIPMENT|Sessions|
-|-------|----------|----------|-----|---------|----------------------------------------|---------|--------|
-|6/20/19| Data Jam 1 | Intro, CSV|OAK  | $0.00    | First, intro to Data Program, 1 exercise|  Printouts, markers, craft materials | [Deconstructing](https://github.com/social-interest-solutions/datajams/issues/1), [Sculpture](https://github.com/social-interest-solutions/datajams/issues/2)        |
-|7/2/19 | Data Jam 1 | Intro, CSV|SAC  | $150.00  | First, intro to Data Program, 1 exercise|  Printouts, markers, craft materials | [Deconstructing](https://github.com/social-interest-solutions/datajams/issues/1), [Sculpture](https://github.com/social-interest-solutions/datajams/issues/2)        |
-| July | Asking Questions | Asking questions and Paper Spreadsheets |OAK  |$0.00    | Learning to ask questions about dataand playing with a real paper table | Laptops, paper, pens, projector, large paper, markers,tape | [Questions](https://github.com/social-interest-solutions/datajams/issues/3), [Paper](https://github.com/social-interest-solutions/datajams/issues/4) |
-| August | Asking Questions | Asking questions and Paper Spreadsheets |SAC  |$150.00  | Learning to ask questions about dataand playing with a real paper table | Laptops, paper, pens, projector, large paper, markers,tape | [Questions](https://github.com/social-interest-solutions/datajams/issues/3), [Paper](https://github.com/social-interest-solutions/datajams/issues/4) |
-| August | Stories and Differences |SameDiff |OAK  |$0.00    | Stories and Differences | Projector, large paper, crayons/markers, laptops, tape | [Story](https://databasic.io/en/culture/sketch-a-story),[SameDiff](https://databasic.io/en/samediff/)] | 
-| September | Stories and Differences  | SameDiff |SAC  |$150.00  | Stories and Differences | Projector, large paper, crayons/markers, laptops, tape | [Story](https://databasic.io/en/culture/sketch-a-story),[SameDiff](https://databasic.io/en/samediff/)] | 
-| September | Networks and Infographics | Connect the Dots |OAK  |$0.00    | | Laptops, projector, handouts  | [Network](https://databasic.io/en/culture/connections) |
-| October | Networks and Infographics | Connect the Dots |SAC  |$150.00  | |  Laptops, projector, handouts | [Network](https://databasic.io/en/culture/connections) |
-| Ocotber |Name      |Item      |OAK  |$0.00    |                                        |         | [](),[]()       |
-| November |Name      |Item      |SAC  |$150.00  |                                        |         |        |
-| November |Name      |Item      |OAK  |$0.00    |                                        |         | [](),[]()       |
-| December |Name      |Item      |SAC  |$150.00  |                                        |         |        |
-| December |Name      |Item      |OAK  |$0.00    |                                        |         | [](),[]()       |
-|Date   |Name      |Item      |SAC  |$150.00  |                                        |         |        |
-|Total  |          |          |     |$1,050.00|                                        |         | |
+|WHEN   |Title       |WHAT       |WHERE|HOW MUCH |NOTES                                   |EQUIPMENT                    |Sessions     |
+|-------|------------|-----------|-----|---------|----------------------------------------|-----------------------------|-------------|
+|7/16/19| Data Jam 1 | Intro, CSV|OAK  | $0.00    | First, intro to Data Program, 1 exercise|  Printouts, markers, craft materials | [Deconstructing](https://github.com/alluma/datajams/issues/1), [Sculpture](https://github.com/alluma/datajams/issues/2)        |
+|7/17/19 | Data Jam 1 | Intro, CSV|SAC  | $150.00  | First, intro to Data Program, 1 exercise|  Printouts, markers, craft materials | [Deconstructing](https://github.com/alluma/datajams/issues/1), [Sculpture](https://github.com/alluma/datajams/issues/2)        |
+| August | Asking Questions | Asking questions and Paper Spreadsheets |OAK  |$0.00    | Learning to ask questions about data and playing with a real paper table | Laptops, paper, pens, projector, large paper, markers,tape | [Questions](https://github.com/alluma/datajams/issues/3), [Paper](https://github.com/alluma/datajams/issues/4) |
+| August | Asking Questions | Asking questions and Paper Spreadsheets |SAC  |$150.00  | Learning to ask questions about data and playing with a real paper table | Laptops, paper, pens, projector, large paper, markers,tape | [Questions](https://github.com/alluma/datajams/issues/3), [Paper](https://github.com/alluma/datajams/issues/4) |
+| September | Stories and Differences |SameDiff |OAK  |$0.00    | Stories and Differences | Projector, large paper, crayons/markers, laptops, tape | [Story](https://databasic.io/en/culture/sketch-a-story),[SameDiff](https://databasic.io/en/samediff/) |
+| September | Stories and Differences  | SameDiff |SAC  |$150.00  | Stories and Differences | Projector, large paper, crayons/markers, laptops, tape | [Story](https://databasic.io/en/culture/sketch-a-story),[SameDiff](https://databasic.io/en/samediff/) |
+| October | Networks| Connect the Dots |OAK  |$0.00    | | Laptops, projector, handouts  | [Network](https://databasic.io/en/culture/connections) |
+| October | Networks| Connect the Dots |SAC  |$150.00  | |  Laptops, projector, handouts | [Network](https://databasic.io/en/culture/connections) |
+| November |Infographics and Words |Remixing infographics and building word webs |OAK  |$0.00    | | Handouts, big paper, sticky notes, markers | [Infographics](https://github.com/we-are-alluma/datajams/issues/7),[Word Web](https://github.com/we-are-alluma/datajams/issues/8) |
+| November |Infographics and Words |Remixing infographics and building word webs |SAC  |$150.00  | | Handouts, big paper, sticky notes, markers | [Infographics](https://github.com/we-are-alluma/datajams/issues/7),[Word Web](https://github.com/we-are-alluma/datajams/issues/8)|
+| December |Write a Data Story |Create a Data Storybook |OAK  |$0.00    | Large paper, markers, dataset, example storybook |         |[Data Storybook](https://github.com/we-are-alluma/datajams/issues/10) |
+| December |Write a Data Story |Create a Data Storybook |SAC  |$150.00  | Large paper, markers, dataset, example storybook |         |[Data Storybook](https://github.com/we-are-alluma/datajams/issues/10) |
+| January |Convince Me |Practice Time |OAK  |$100.00  |handouts, space in the room, 10ppl min, projector |         | [Convince Me](https://github.com/we-are-alluma/datajams/issues/9) |
+| January |Convince Me |Practice Time |SAC  |$150.00  | handouts, space in the room, 10ppl min, projector |         | [Convince Me](https://github.com/we-are-alluma/datajams/issues/9)|
