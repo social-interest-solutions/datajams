@@ -12,7 +12,7 @@
 | October | Networks| Connect the Dots |SAC  |$150.00  | |  Laptops, projector, handouts | [Network](https://databasic.io/en/culture/connections) |
 | November |Infographics and Words |Remixing infographics and building word webs |OAK  |$0.00    | | Handouts, big paper, sticky notes, markers | [Infographics](https://github.com/we-are-alluma/datajams/issues/7),[Word Web](https://github.com/we-are-alluma/datajams/issues/8) |
 | November |Infographics and Words |Remixing infographics and building word webs |SAC  |$150.00  | | Handouts, big paper, sticky notes, markers | [Infographics](https://github.com/we-are-alluma/datajams/issues/7),[Word Web](https://github.com/we-are-alluma/datajams/issues/8)|
-| December |Write a Data Story |Create a Data Storybook |OAK  |$0.00    | Large paper, markers, dataset, example storybook |         |[Data Storybook](https://github.com/we-are-alluma/datajams/issues/10) |
-| December |Write a Data Story |Create a Data Storybook |SAC  |$150.00  | Large paper, markers, dataset, example storybook |         |[Data Storybook](https://github.com/we-are-alluma/datajams/issues/10) |
-| January |Convince Me |Practice Time |OAK  |$100.00  |handouts, space in the room, 10ppl min, projector |         | [Convince Me](https://github.com/we-are-alluma/datajams/issues/9) |
-| January |Convince Me |Practice Time |SAC  |$150.00  | handouts, space in the room, 10ppl min, projector |         | [Convince Me](https://github.com/we-are-alluma/datajams/issues/9)|
+| December |Write a Data Story |Create a Data Storybook |OAK  |$0.00    |  | Large paper, markers, dataset, example storybook |[Data Storybook](https://github.com/we-are-alluma/datajams/issues/10) |
+| December |Write a Data Story |Create a Data Storybook |SAC  |$150.00  |  | Large paper, markers, dataset, example storybook |[Data Storybook](https://github.com/we-are-alluma/datajams/issues/10) |
+| January |Convince Me |Practice Time |OAK  |$100.00  | | handouts, space in the room, 10ppl min, projector | [Convince Me](https://github.com/we-are-alluma/datajams/issues/9) |
+| January |Convince Me |Practice Time |SAC  |$150.00  | | handouts, space in the room, 10ppl min, projector | [Convince Me](https://github.com/we-are-alluma/datajams/issues/9)|
