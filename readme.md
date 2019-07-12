@@ -1,4 +1,4 @@
-#Alluma Data Jams
+# Alluma Data Jams
 This is a compilation of data learning activities in a schedule for use at Alluma.org. You can grab this and adjust dates, ,sequence to help coordinate your own data capacity building program at your nonprofit or company.
 
 Sessions are grouped into Issues
